@@ -1,1 +1,2 @@
-This is the first git push frm my laptop to the git server. 
+This is the first git push from my laptop to the git server. 
+This line is added to the repository and will be pulled late on my laptop.
